@@ -1,0 +1,21 @@
+1. fetch database buat ngedapetin data message
+2. return data message
+3. fetch ke database buat ngedapetin data recipient
+4. return data recipient
+
+while
+selama recipient (data yang didapet dari hasil fetch tadi != null)
+	if
+	selama pointer (head) == null maka
+		5. buat node baru
+	else
+		6. kalau udah ada head.nya baru addNode
+
+7. ke class ListQueue buat ngedapetin semua node
+8. return semua node bentuknya linklisted
+
+while
+selama head != null
+	9. dilakukan pengiriman sms sendSMS
+	setiap pesan adalah satu node, sehingga setiap pesan yang sudah dikirim (tanpa melihat apakah failed atau sent), node harus dihapus, maka
+	10. dilakukan penghapusan node deleteNode()
