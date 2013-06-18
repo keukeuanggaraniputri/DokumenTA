@@ -1,0 +1,18 @@
+openHelper : TimeListDatabaseHelper
+cursor : Cursor
+messageId : ArrayList of Integer
+scheduleId, id : Integer
+
+begin
+	onContextItemSelected(item);
+	cursor <- openHelper.getScheduleList();
+		if(cursor.moveToFirst())
+			then do messageId.add(cursor.getColumnIndex(TimeListDatabaseHelper.MESSAGE_COLUMN_ID));
+			while (cursor.moveToNext())
+		endif
+	scheduleId <- messageId.get(position);
+	schedule.setScheduleId(scheduleId);
+	id <- schedule.getScheduleId();
+	pauseSchedule(id);    //remove schedule on alarm manager not delete from database
+	schedule.setStatus("Paused");
+end

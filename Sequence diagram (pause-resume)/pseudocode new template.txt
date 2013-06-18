@@ -1,0 +1,82 @@
+	databaseHelper : TemplateDatabaseHelper 
+	data : array of String				data[1] : message of template, data[2] : type of template from type of category, data[3] : name of template
+	name, message : String
+	categoryID : integer
+	tmp_message, tmp_name : widget of EditText
+	data_count : widget of button	
+		
+
+	def_ch : Array of String {"%%AGE%% ", "%%DATE%% ", "%%MONTH%% ",
+			"%%YEAR%% "}
+	begin
+		create new tmp_message;
+		create new tmp_name;
+		create new data_count;
+		//after fields(all editText widget) fill up			
+		if (tmp_message.contais("%%"))
+		then openDialogCategory();		//select between Birthday and Anniversary
+						
+		else category <- "Other"
+		endif
+		saveTemplatetoCategory(category);
+		categoryID <- getCategoryId(category);
+		saveTemplatetoTemplate(categoryID, data[]);
+
+	end	
+
+<--------------------------------------------------------------------->	
+
+procedure saveTemplatetoCategory(data : String)
+openHelper : TemplateDatabaseHelper
+database : SQLiteDatabase
+contentValues : ContentValues
+begin
+database <- openHelper.getWritableDatabase();
+
+		contentValues <- new ContentValues;
+		contentValues.put(CATEGORY_COLUMN_TYPE, data);
+		database.insert(TABLE_CATEGORY, null, contentValues);
+
+end
+endProcedure
+<------------------------------------------------------------------------------->
+
+function getCategoryId(category : String)		: Integer
+databaseHelper : TemplateDatabaseHelper
+database : SQLiteDatabase
+cursor : Cursor
+categoryId : Integer
+begin
+	cursor <- database.rawQuery("select * from " + TABLE_CATEGORY + " where category_type='" + category +"'", null);
+	if(cursor != null)then
+			while(cursor.moveToNext())
+			do
+				categoryId = cursor.getInt(cursor.getColumnIndex(CATEGORY_COLUMN_ID));
+			endwhile
+	endif
+	return categoryId;
+end
+endFunction getCategoryId
+
+
+<------------------------------------------------------------------------------------->
+
+
+Procedure saveTemplatetoTemplate(categoryID : Integer, data : Array of String)
+openHelper : TemplateDatabaseHelper
+database : SQLiteDatabase
+contentValues : ContentValues
+begin
+	database <- openHelper.getWritableDatabase();
+
+	contentValues <- new ContentValues();
+	contentValues.put(TEMPLATE_COLUMN_CATEGORY_ID, categoryID);
+	contentValues.put(TEMPLATE_COLUMN_MESSAGE, data[1]);
+	contentValues.put(CATEGORY_COLUMN_TYPE, data[2]);
+	contentValues.put(TEMPLATE_COLUMN_NAME, data[3]);
+	database.insert(TABLE_TEMPLATE, null, contentValues);
+
+end
+endProcedure
+
+<-------------------------------------------------------------------------------------->
