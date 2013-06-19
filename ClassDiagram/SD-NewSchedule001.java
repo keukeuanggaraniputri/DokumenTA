@@ -1,3 +1,63 @@
+//all
+databaseHelper : TimeListDatabaseHelper
+timemillis, timesent : Long
+recipient, datetime, content, freqTime : EditText Widget
+btn_save, btn_cancel : Button Widget
+frequency : Spinner Widget
+freq = { "Once", "hourly", "daily", "weekly", "monthly", "yearly", "2 hourly", "4 hourly", "6 hourly", 
+		 "8 hourly", "12 hourly", "2 weekly", "3 weekly", "2 monthly", "4 monthly", "6 monthly"} : Array of String
+date_schedule : DatePicker 
+time_schedule : TimePicker
+data : Array of String
+check : boolean 
+freqtimes : Frequency
+schedule : Schedule
+intent : Intent
+pending : PendingIntent
+alarm : AlarmManager
+dataRepetition : Array of String
+time : Array of long
+
+begin
+	recipient <- new EditText();
+	datetime <- new EditText();
+	content <- new EditText();
+	freqTime <- new EditText();
+	frequency <- new Spinner(freq);
+	data[0] <- datetime.getText();
+	data[1] <- recipient.getText();
+	data[2] <- content.getText();
+	data[3] <- freqtime.getText();
+	data[4] <- frequency.getText();
+	
+	if (btn_save.clicked) then
+			timesent <- timemillis;
+			timemillis <- databaseHelper.addTimemillis(timemillis);
+			schedule <- new Schedule(timemillis, timesent, data);
+			schedule.setMessageType(schedule.contentMessages);		//check the type of message, whether dynamic or static message -> contain %%y, etc
+			data[7] = schedule.getType();		
+			databaseHelper.saveScheduletoMessage(schedule.getTimemillis(), schedule.getTimesent(), data);
+			databaseHelper.saveScheduleToType(data[7], data[2], schedule.getScheduleId);
+			databaseHelper.saveScheduleToTime(timemillis, timesent, schedule.getScheduleId);
+			databaseHelper.saveScheduleToContact(schedule.getRecipientNumbers());
+			databaseHelper.saveScheduleToRecipient(data[1], schedule.getScheduleId);
+			intent = new Intent();
+			intent.putExtra("timemillis", timesent);
+			pending = PendingIntent.getActivity();
+			alarm = getSystemService(ALARM_SERVICE);
+			if (data[4] = "Once") then
+				dataRepetition[0] <- data[3];
+				dataRepetition[1] <- schedule.getScheduleId();
+				dataRepetition[2] <- data[4];
+				time[0] <- timemillis;
+				time[1] <- timesent;
+				freqtimes.repetition(pending, alarm, databaseHelper, dataRepetition, time);
+				else 
+				alarm.set(AlarmManager.RTC_WAKEUP, timesent, pending);
+			endif	
+	endif
+end
+
 14
 Logika Proses
 Prosedur addTimemillis(timemillis)
