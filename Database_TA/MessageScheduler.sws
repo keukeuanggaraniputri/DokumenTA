@@ -11,8 +11,9 @@
 		<Model Expanded="Yes" ID="{8D9EA761-D54D-4CAF-A68C-C475CCE39855}" Loaded="No" Name="MessageScheduler_003" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="MessageScheduler_003.pdm"/>
 		<Model ID="{839BBAED-FD19-47A3-9B77-EDBE1F8316EB}" Loaded="No" Name="MessageScheduler_005" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="MessageScheduler_006.cdm"/>
 		<Model Expanded="Yes" ID="{53F09BAB-425F-4D92-9283-ABD4A11410E2}" Loaded="No" Name="MessageScheduler_005" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="MessageScheduler_005.pdm"/>
-		<Model ID="{839BBAED-FD19-47A3-9B77-EDBE1F8316EB}" Name="MessageScheduler_006" Selected="Yes" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="MessageScheduler_007.cdm"/>
-		<Model ID="{96116B8B-8360-49E9-BF1D-D184E4999CFF}" Loaded="No" Name="MessageScheduler_006" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="MessageScheduler_006.pdm"/>
+		<Model Expanded="Yes" ID="{839BBAED-FD19-47A3-9B77-EDBE1F8316EB}" Name="MessageScheduler_007" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="MessageScheduler_007.cdm"/>
+		<Model ID="{96116B8B-8360-49E9-BF1D-D184E4999CFF}" Name="MessageScheduler_006" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="MessageScheduler_006.pdm"/>
+		<Model Expanded="Yes" ID="{66725656-C72C-4A74-895F-561DE32D7933}" Name="MessageScheduler_007" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="MessageScheduler_007.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
