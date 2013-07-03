@@ -113,7 +113,7 @@
 <XPD:ATTR name="Left" type="integer">680</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">8</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">479</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">641</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">628</XPD:ATTR>
 <XPD:REF name="Model">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="EXKGV5yQG0WFnrwOICd7RAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="aEx5L6/OEkW/B7McP/XpSQAA">
@@ -681,7 +681,7 @@
 <XPD:OBJ name="OwnedViews[16]" type="UMLDependencyView" guid="FhznzfTqGkO4AVih/ybgsAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">680,177;623,141</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">680,175;625,141</XPD:ATTR>
 <XPD:REF name="Model">OZeH6zUNeUyNZa/vvrwvywAA</XPD:REF>
 <XPD:REF name="Head">X7R4GNaOMkCNNoYGc7RtcwAA</XPD:REF>
 <XPD:REF name="Tail">4qNA81y7P0yxrZ+U8z99BwAA</XPD:REF>
@@ -791,7 +791,7 @@
 <XPD:OBJ name="OwnedViews[18]" type="UMLAssociationView" guid="aBJmEpqcGUOrlDyPFMtmwQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1158,425;1284,476</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1158,422;1284,475</XPD:ATTR>
 <XPD:REF name="Model">TD5RSVL+qkmrkBoBhxg0hwAA</XPD:REF>
 <XPD:REF name="Head">t/D9Sn4xQ0mAH+xqcazoWwAA</XPD:REF>
 <XPD:REF name="Tail">4qNA81y7P0yxrZ+U8z99BwAA</XPD:REF>
@@ -875,7 +875,7 @@
 <XPD:OBJ name="OwnedViews[19]" type="UMLAssociationView" guid="nNtEhMYiF0iqPKb1NkOkRgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">908,648;905,756</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">909,635;905,756</XPD:ATTR>
 <XPD:REF name="Model">7BvhCzwAS0u9aV0+ccxRvQAA</XPD:REF>
 <XPD:REF name="Head">KAC1mJjOR06LDfcxjJ86+wAA</XPD:REF>
 <XPD:REF name="Tail">4qNA81y7P0yxrZ+U8z99BwAA</XPD:REF>
@@ -1136,9 +1136,9 @@
 <XPD:OBJ name="OwnedViews[24]" type="UMLClassView" guid="BwNCS/p7nUmrYN9VkTVe2QAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">2604</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">2600</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">640</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">323</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">363</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">69</XPD:ATTR>
 <XPD:REF name="Model">hwDFG+wEB0Oa2vMpWpFvmQAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="4blodeRa2UOWvwocyg62fQAA">
@@ -1200,7 +1200,7 @@
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">1648</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">488</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">613</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">618</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">56</XPD:ATTR>
 <XPD:REF name="Model">HvVaFBd9k0+2ViLn4rwTXAAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="KL9Uv29ZwESSoTWpQN6Q+AAA">
@@ -3053,7 +3053,7 @@
 <XPD:OBJ name="OwnedViews[62]" type="UMLAssociationView" guid="tIQMaHb3nUeTrvk0uaaFRwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1452,297;1158,314</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1452,296;1158,310</XPD:ATTR>
 <XPD:REF name="Model">alFi1KIGfUGLvP7DYf+vOwAA</XPD:REF>
 <XPD:REF name="Head">4qNA81y7P0yxrZ+U8z99BwAA</XPD:REF>
 <XPD:REF name="Tail">PSgVnIYMkkuSmpM+RiQ7CgAA</XPD:REF>
@@ -3145,7 +3145,7 @@
 <XPD:REF name="Views[1]">II8tg4P+HEC8GVsE2pmlXAAA</XPD:REF>
 <XPD:REF name="Views[2]">eMRxaiVrxEOpfJqnb+cWWwAA</XPD:REF>
 <XPD:REF name="Views[3]">/+KazAp8W0+TXGPsDqG0dgAA</XPD:REF>
-<XPD:ATTR name="#Operations" type="integer">25</XPD:ATTR>
+<XPD:ATTR name="#Operations" type="integer">26</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="bcBWJJey+EqWMdxLK1YsHQAA">
 <XPD:ATTR name="Name" type="string">getImage</XPD:ATTR>
 <XPD:REF name="Owner">PoNJZyMFUE6ESwOE0rdU8wAA</XPD:REF>
@@ -3454,6 +3454,20 @@
 <XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
 <XPD:REF name="CallActions[0]">o76RiSU9zkqBsWTjmB2PlAAA</XPD:REF>
 </XPD:OBJ>
+<XPD:OBJ name="Operations[25]" type="UMLOperation" guid="SRckYGSLEUi4Gujb9bA2NQAA">
+<XPD:ATTR name="Name" type="string">pauseSchedule</XPD:ATTR>
+<XPD:REF name="Owner">PoNJZyMFUE6ESwOE0rdU8wAA</XPD:REF>
+<XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="ExXWcYMnWUG3blw1YCkppwAA">
+<XPD:ATTR name="DirectionKind" type="UMLParameterDirectionKind">pdkReturn</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">void</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">SRckYGSLEUi4Gujb9bA2NQAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="GlRDvzWwSkaNxFczi7QxRQAA">
+<XPD:ATTR name="Name" type="string">string messageId</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">SRckYGSLEUi4Gujb9bA2NQAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
 <XPD:ATTR name="#TypedFeatures" type="integer">1</XPD:ATTR>
 <XPD:REF name="TypedFeatures[0]">whue/QftjECtOOJ9FQVNegAA</XPD:REF>
 <XPD:ATTR name="#Associations" type="integer">4</XPD:ATTR>
@@ -3539,25 +3553,21 @@
 <XPD:REF name="Views[3]">dyVbgzLjLkGn40MP+CGYuwAA</XPD:REF>
 <XPD:ATTR name="#ClientDependencies" type="integer">1</XPD:ATTR>
 <XPD:REF name="ClientDependencies[0]">OZeH6zUNeUyNZa/vvrwvywAA</XPD:REF>
-<XPD:ATTR name="#Operations" type="integer">40</XPD:ATTR>
+<XPD:ATTR name="#Operations" type="integer">39</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="qkDoBh4jJkyplWmDVliWpgAA">
 <XPD:ATTR name="Name" type="string">saveScheduletoMessage</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
-<XPD:ATTR name="#Parameters" type="integer">4</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="2B+q70I4oU+YPWB8lsL58QAA">
+<XPD:ATTR name="#Parameters" type="integer">3</XPD:ATTR>
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="HEXyixdCHkGA68EGr8/8hAAA">
 <XPD:ATTR name="DirectionKind" type="UMLParameterDirectionKind">pdkReturn</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">void</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">qkDoBh4jJkyplWmDVliWpgAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="kyprzFCsAUO25F1w/xNEyAAA">
-<XPD:ATTR name="Name" type="string">long timemillis</XPD:ATTR>
-<XPD:REF name="BehavioralFeature">qkDoBh4jJkyplWmDVliWpgAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="Parameters[2]" type="UMLParameter" guid="CKdMzkhgvk+JNwm/nWmCBwAA">
+<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="W3Uqgx21/k2H/81VZyx/dAAA">
 <XPD:ATTR name="Name" type="string">long timesent</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">qkDoBh4jJkyplWmDVliWpgAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[3]" type="UMLParameter" guid="4d++euriwE65KAsdIYTxtQAA">
+<XPD:OBJ name="Parameters[2]" type="UMLParameter" guid="7afu89HlSkG8F6fC+pghYQAA">
 <XPD:ATTR name="Name" type="string">String[] data</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">qkDoBh4jJkyplWmDVliWpgAA</XPD:REF>
 </XPD:OBJ>
@@ -3567,21 +3577,17 @@
 <XPD:OBJ name="Operations[1]" type="UMLOperation" guid="YuTe/AUTzEWzcGQ1nOLQbwAA">
 <XPD:ATTR name="Name" type="string">saveScheduleToTime</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
-<XPD:ATTR name="#Parameters" type="integer">4</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="msgJGNB/6kK6GlJKneBODAAA">
+<XPD:ATTR name="#Parameters" type="integer">3</XPD:ATTR>
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="IRdqRNad2UW4N/oFO1oBIwAA">
 <XPD:ATTR name="DirectionKind" type="UMLParameterDirectionKind">pdkReturn</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">void</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">YuTe/AUTzEWzcGQ1nOLQbwAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="1Y0iQUljAkOsIrPt5CFDLgAA">
-<XPD:ATTR name="Name" type="string">long timemillis</XPD:ATTR>
-<XPD:REF name="BehavioralFeature">YuTe/AUTzEWzcGQ1nOLQbwAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="Parameters[2]" type="UMLParameter" guid="pYfg30vhH0CSCMb66i35OQAA">
+<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="i4h0H9+Fj06FoTIoIp3ZJAAA">
 <XPD:ATTR name="Name" type="string">long timesent</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">YuTe/AUTzEWzcGQ1nOLQbwAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[3]" type="UMLParameter" guid="3rKZV7ZgH0Sq4+TXCveDgwAA">
+<XPD:OBJ name="Parameters[2]" type="UMLParameter" guid="KSmTRDGwFU+gRqovfhF/8gAA">
 <XPD:ATTR name="Name" type="string">String messageId</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">YuTe/AUTzEWzcGQ1nOLQbwAA</XPD:REF>
 </XPD:OBJ>
@@ -3652,23 +3658,7 @@
 <XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
 <XPD:REF name="CallActions[0]">dQFpdvryj0C+9AuG3lbd7AAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[5]" type="UMLOperation" guid="JBi9H9CO10y/wR6S0JMaXwAA">
-<XPD:ATTR name="Name" type="string">addTimemillis</XPD:ATTR>
-<XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
-<XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="266JTpoShky2IDqXoXnoxQAA">
-<XPD:ATTR name="DirectionKind" type="UMLParameterDirectionKind">pdkReturn</XPD:ATTR>
-<XPD:ATTR name="TypeExpression" type="string">long</XPD:ATTR>
-<XPD:REF name="BehavioralFeature">JBi9H9CO10y/wR6S0JMaXwAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="Madn+WiBxkqt70tkzmJSGgAA">
-<XPD:ATTR name="Name" type="string">long timemillis</XPD:ATTR>
-<XPD:REF name="BehavioralFeature">JBi9H9CO10y/wR6S0JMaXwAA</XPD:REF>
-</XPD:OBJ>
-<XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
-<XPD:REF name="CallActions[0]">rVBQT/2GAkGZ/m17FZUF2AAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="Operations[6]" type="UMLOperation" guid="k+WIZgwsKUSkccx5rU+X4gAA">
+<XPD:OBJ name="Operations[5]" type="UMLOperation" guid="k+WIZgwsKUSkccx5rU+X4gAA">
 <XPD:ATTR name="Name" type="string">getMessageFromMessage</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
@@ -3684,7 +3674,7 @@
 <XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
 <XPD:REF name="CallActions[0]">Ei5YWplBqEWHoRH/LaZuDwAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[7]" type="UMLOperation" guid="rW3niVaKskWlNzwVSWS8IAAA">
+<XPD:OBJ name="Operations[6]" type="UMLOperation" guid="rW3niVaKskWlNzwVSWS8IAAA">
 <XPD:ATTR name="Name" type="string">getScheduleList</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
@@ -3696,7 +3686,7 @@
 <XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
 <XPD:REF name="CallActions[0]">xfI2xtT+LkGvTxIFLDi0UgAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[8]" type="UMLOperation" guid="cz0G8AD0E0KPQkWuFi4pZgAA">
+<XPD:OBJ name="Operations[7]" type="UMLOperation" guid="cz0G8AD0E0KPQkWuFi4pZgAA">
 <XPD:ATTR name="Name" type="string">getRecipientFromRecipient</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
@@ -3712,23 +3702,23 @@
 <XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
 <XPD:REF name="CallActions[0]">BQkOFao7r0ycNtVKuAr45AAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[9]" type="UMLOperation" guid="XIGlT7iwkkyL85GIIDzizQAA">
+<XPD:OBJ name="Operations[8]" type="UMLOperation" guid="XIGlT7iwkkyL85GIIDzizQAA">
 <XPD:ATTR name="Name" type="string">getMessageIdFromTime</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="JFu+iUULx06f/jZiVEQI1gAA">
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="V5NOH7Tnvk+hjz+ezpUw4gAA">
 <XPD:ATTR name="DirectionKind" type="UMLParameterDirectionKind">pdkReturn</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">XIGlT7iwkkyL85GIIDzizQAA</XPD:REF>
 <XPD:REF name="Type_">ufKKf7MWgE+VA4l9shB52wAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="I0P1h83otkWbX0NXqDva/wAA">
-<XPD:ATTR name="Name" type="string">long timemillis</XPD:ATTR>
+<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="qR99Kk6yYEmOn9odFCTcMwAA">
+<XPD:ATTR name="Name" type="string">long timesent</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">XIGlT7iwkkyL85GIIDzizQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
 <XPD:REF name="CallActions[0]">asu58+XpPkGceDMRbLTWFAAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[10]" type="UMLOperation" guid="nRQC3FibzUWzqqTJqVX+jwAA">
+<XPD:OBJ name="Operations[9]" type="UMLOperation" guid="nRQC3FibzUWzqqTJqVX+jwAA">
 <XPD:ATTR name="Name" type="string">getMessageIduseTimealert</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
@@ -3744,7 +3734,7 @@
 <XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
 <XPD:REF name="CallActions[0]">6hMP8kLDBUafHWsF8O721QAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[11]" type="UMLOperation" guid="YlrcpnqY90SQI/Ugf+rtUgAA">
+<XPD:OBJ name="Operations[10]" type="UMLOperation" guid="YlrcpnqY90SQI/Ugf+rtUgAA">
 <XPD:ATTR name="Name" type="string">updateContent</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">3</XPD:ATTR>
@@ -3765,7 +3755,7 @@
 <XPD:REF name="CallActions[0]">KgdgM3zi0kKxCPs/9f9fBQAA</XPD:REF>
 <XPD:REF name="CallActions[1]">XWJ5bILNeUOl+29yd9/73gAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[12]" type="UMLOperation" guid="YhMyIPWBWkqDSt45nyeuAwAA">
+<XPD:OBJ name="Operations[11]" type="UMLOperation" guid="YhMyIPWBWkqDSt45nyeuAwAA">
 <XPD:ATTR name="Name" type="string">updateType</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">4</XPD:ATTR>
@@ -3790,7 +3780,7 @@
 <XPD:REF name="CallActions[0]">sb1ajkjKIE+ZgfEVPfQ0SAAA</XPD:REF>
 <XPD:REF name="CallActions[1]">Ii/ViN8mn02vhkwX3t0ZWwAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[13]" type="UMLOperation" guid="+safTJBBgkKUVF/wqlCAkwAA">
+<XPD:OBJ name="Operations[12]" type="UMLOperation" guid="+safTJBBgkKUVF/wqlCAkwAA">
 <XPD:ATTR name="Name" type="string">updateTime</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">3</XPD:ATTR>
@@ -3808,7 +3798,7 @@
 <XPD:REF name="BehavioralFeature">+safTJBBgkKUVF/wqlCAkwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[14]" type="UMLOperation" guid="5Xi3n1v50EWUcoolL/6RSgAA">
+<XPD:OBJ name="Operations[13]" type="UMLOperation" guid="5Xi3n1v50EWUcoolL/6RSgAA">
 <XPD:ATTR name="Name" type="string">updateRecipient</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">3</XPD:ATTR>
@@ -3826,7 +3816,7 @@
 <XPD:REF name="BehavioralFeature">5Xi3n1v50EWUcoolL/6RSgAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[15]" type="UMLOperation" guid="c7ld8gGH8Ei8QqsJoAUQuAAA">
+<XPD:OBJ name="Operations[14]" type="UMLOperation" guid="c7ld8gGH8Ei8QqsJoAUQuAAA">
 <XPD:ATTR name="Name" type="string">count</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
@@ -3843,7 +3833,7 @@
 <XPD:REF name="CallActions[0]">RWPZQbsR7kuI66n1LZVl3gAA</XPD:REF>
 <XPD:REF name="CallActions[1]">urgH9QRiPEuYHnlU0t45lwAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[16]" type="UMLOperation" guid="z9PHTbxOmUqdLXnDgefGBwAA">
+<XPD:OBJ name="Operations[15]" type="UMLOperation" guid="z9PHTbxOmUqdLXnDgefGBwAA">
 <XPD:ATTR name="Name" type="string">getTime</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
@@ -3861,7 +3851,7 @@
 <XPD:REF name="CallActions[1]">EEC8dspmUUC2SfWuQDQHIwAA</XPD:REF>
 <XPD:REF name="CallActions[2]">GbLsFXBxsUeczbprE/7iHAAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[17]" type="UMLOperation" guid="6QjvacfmkEyXZebt/aORNwAA">
+<XPD:OBJ name="Operations[16]" type="UMLOperation" guid="6QjvacfmkEyXZebt/aORNwAA">
 <XPD:ATTR name="Name" type="string">getRecipients</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
@@ -3878,7 +3868,7 @@
 <XPD:REF name="CallActions[0]">OdWyTwkCD0Gl3tqu493/FAAA</XPD:REF>
 <XPD:REF name="CallActions[1]">taksVPWCYEmIdAIwpIyERQAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[18]" type="UMLOperation" guid="u4a/7yBe+USVZlnTl5bNjwAA">
+<XPD:OBJ name="Operations[17]" type="UMLOperation" guid="u4a/7yBe+USVZlnTl5bNjwAA">
 <XPD:ATTR name="Name" type="string">getMessage</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
@@ -3895,7 +3885,7 @@
 <XPD:REF name="CallActions[0]">gXLjvIUSEEmh+3H6QmaBPQAA</XPD:REF>
 <XPD:REF name="CallActions[1]">l53dswPWrk+xUA/9lwur9gAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[19]" type="UMLOperation" guid="RmWfxxiOyk25FqdSGmnEKwAA">
+<XPD:OBJ name="Operations[18]" type="UMLOperation" guid="RmWfxxiOyk25FqdSGmnEKwAA">
 <XPD:ATTR name="Name" type="string">deleteTime</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
@@ -3912,7 +3902,7 @@
 <XPD:REF name="CallActions[0]">LVD2eN0fjkOiKXHopR8mKgAA</XPD:REF>
 <XPD:REF name="CallActions[1]">3UkwLuB5W0660aogXFfqKQAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[20]" type="UMLOperation" guid="9qi0mN/mak+tQYzrqFjyUQAA">
+<XPD:OBJ name="Operations[19]" type="UMLOperation" guid="9qi0mN/mak+tQYzrqFjyUQAA">
 <XPD:ATTR name="Name" type="string">getMessageFrequency</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
@@ -3929,7 +3919,7 @@
 <XPD:REF name="CallActions[0]">fTY82B3sHECHtr31EFhSNQAA</XPD:REF>
 <XPD:REF name="CallActions[1]">pOwWj0Q26UalCBbfMdfCZQAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[21]" type="UMLOperation" guid="PBKqJ00fcEWW2lHd3w1oKQAA">
+<XPD:OBJ name="Operations[20]" type="UMLOperation" guid="PBKqJ00fcEWW2lHd3w1oKQAA">
 <XPD:ATTR name="Name" type="string">deleteRecipient</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
@@ -3946,7 +3936,7 @@
 <XPD:REF name="CallActions[0]">gOPWMddmD0CRNcEVECb1cAAA</XPD:REF>
 <XPD:REF name="CallActions[1]">I6M/0VFxGUOlEa/t3Wk4CwAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[22]" type="UMLOperation" guid="S7WNdHp1TUagGYsUQPzFnwAA">
+<XPD:OBJ name="Operations[21]" type="UMLOperation" guid="S7WNdHp1TUagGYsUQPzFnwAA">
 <XPD:ATTR name="Name" type="string">getMessageDatetime</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
@@ -3962,7 +3952,7 @@
 <XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
 <XPD:REF name="CallActions[0]">Hp8vA9vB5Uyilglax+B4HQAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[23]" type="UMLOperation" guid="RJyW7lR5y0ao07RE8BRMFgAA">
+<XPD:OBJ name="Operations[22]" type="UMLOperation" guid="RJyW7lR5y0ao07RE8BRMFgAA">
 <XPD:ATTR name="Name" type="string">getAlertActivation</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
@@ -3974,7 +3964,7 @@
 <XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
 <XPD:REF name="CallActions[0]">O+r1y7QLTkClqpVy6hacFwAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[24]" type="UMLOperation" guid="uMPhGy+OKECzkceH6S5pEgAA">
+<XPD:OBJ name="Operations[23]" type="UMLOperation" guid="uMPhGy+OKECzkceH6S5pEgAA">
 <XPD:ATTR name="Name" type="string">getAlertTime</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
@@ -3984,7 +3974,7 @@
 <XPD:REF name="BehavioralFeature">uMPhGy+OKECzkceH6S5pEgAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[25]" type="UMLOperation" guid="eq8cKROcpkemmjjNMRrfXAAA">
+<XPD:OBJ name="Operations[24]" type="UMLOperation" guid="eq8cKROcpkemmjjNMRrfXAAA">
 <XPD:ATTR name="Name" type="string">getAlertTone</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
@@ -3996,7 +3986,7 @@
 <XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
 <XPD:REF name="CallActions[0]">fCn5V1kklUeOwMmSBjmC1QAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[26]" type="UMLOperation" guid="lrwnxNCBSEOuQJ0d+scrQAAA">
+<XPD:OBJ name="Operations[25]" type="UMLOperation" guid="lrwnxNCBSEOuQJ0d+scrQAAA">
 <XPD:ATTR name="Name" type="string">getNotifTone</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
@@ -4006,7 +3996,7 @@
 <XPD:REF name="BehavioralFeature">lrwnxNCBSEOuQJ0d+scrQAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[27]" type="UMLOperation" guid="K5XW6tjS3Eij0dMhPIzZ1wAA">
+<XPD:OBJ name="Operations[26]" type="UMLOperation" guid="K5XW6tjS3Eij0dMhPIzZ1wAA">
 <XPD:ATTR name="Name" type="string">updateAlertActivation</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
@@ -4020,7 +4010,7 @@
 <XPD:REF name="BehavioralFeature">K5XW6tjS3Eij0dMhPIzZ1wAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[28]" type="UMLOperation" guid="my9zNY0gGEyhoD1lMi5ndwAA">
+<XPD:OBJ name="Operations[27]" type="UMLOperation" guid="my9zNY0gGEyhoD1lMi5ndwAA">
 <XPD:ATTR name="Name" type="string">updateAlertTime</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
@@ -4034,7 +4024,7 @@
 <XPD:REF name="BehavioralFeature">my9zNY0gGEyhoD1lMi5ndwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[29]" type="UMLOperation" guid="8RcqjaN2W02Gg/AU2uFYDgAA">
+<XPD:OBJ name="Operations[28]" type="UMLOperation" guid="8RcqjaN2W02Gg/AU2uFYDgAA">
 <XPD:ATTR name="Name" type="string">updateAlertTone</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
@@ -4048,7 +4038,7 @@
 <XPD:REF name="BehavioralFeature">8RcqjaN2W02Gg/AU2uFYDgAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[30]" type="UMLOperation" guid="8S+PYyZ41Euo7hw6iV6k6AAA">
+<XPD:OBJ name="Operations[29]" type="UMLOperation" guid="8S+PYyZ41Euo7hw6iV6k6AAA">
 <XPD:ATTR name="Name" type="string">updateNotifTone</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
@@ -4062,7 +4052,7 @@
 <XPD:REF name="BehavioralFeature">8S+PYyZ41Euo7hw6iV6k6AAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[31]" type="UMLOperation" guid="SeqKRO+WrEOlYeNTSnfaWwAA">
+<XPD:OBJ name="Operations[30]" type="UMLOperation" guid="SeqKRO+WrEOlYeNTSnfaWwAA">
 <XPD:ATTR name="Name" type="string">saveTemplatetoTemplate</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
@@ -4077,7 +4067,7 @@
 <XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
 <XPD:REF name="CallActions[0]">Y5OXCUMjxUykMPk7eEw/jAAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[32]" type="UMLOperation" guid="X9LU1T12h0SQJu6SjYc0lgAA">
+<XPD:OBJ name="Operations[31]" type="UMLOperation" guid="X9LU1T12h0SQJu6SjYc0lgAA">
 <XPD:ATTR name="Name" type="string">saveTemplatetoCategory</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
@@ -4088,7 +4078,7 @@
 <XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
 <XPD:REF name="CallActions[0]">M9hcuTPAGkiJzkdY52g13QAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[33]" type="UMLOperation" guid="ACaOwDaiF02pzicw+tc0xQAA">
+<XPD:OBJ name="Operations[32]" type="UMLOperation" guid="ACaOwDaiF02pzicw+tc0xQAA">
 <XPD:ATTR name="Name" type="string">getCategoryId</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
@@ -4099,15 +4089,15 @@
 <XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
 <XPD:REF name="CallActions[0]">VzlUhMqxdE2txddM7GgpyQAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[34]" type="UMLOperation" guid="/LiG7YdFmU6lTzgJXJRaJwAA">
+<XPD:OBJ name="Operations[33]" type="UMLOperation" guid="/LiG7YdFmU6lTzgJXJRaJwAA">
 <XPD:ATTR name="Name" type="string">getAllTemplateRecords</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[35]" type="UMLOperation" guid="OCjctJ3ox0Sk6WGg9f51PgAA">
+<XPD:OBJ name="Operations[34]" type="UMLOperation" guid="OCjctJ3ox0Sk6WGg9f51PgAA">
 <XPD:ATTR name="Name" type="string">getTemplateList</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[36]" type="UMLOperation" guid="uHuOCD9zx0O/bOTjK1dcQgAA">
+<XPD:OBJ name="Operations[35]" type="UMLOperation" guid="uHuOCD9zx0O/bOTjK1dcQgAA">
 <XPD:ATTR name="Name" type="string">getMessageTemplate</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
@@ -4116,7 +4106,7 @@
 <XPD:REF name="BehavioralFeature">uHuOCD9zx0O/bOTjK1dcQgAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[37]" type="UMLOperation" guid="0fBEDfPLjE+QXRbt2CHM7QAA">
+<XPD:OBJ name="Operations[36]" type="UMLOperation" guid="0fBEDfPLjE+QXRbt2CHM7QAA">
 <XPD:ATTR name="Name" type="string">removeTemplate</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
@@ -4127,7 +4117,7 @@
 <XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
 <XPD:REF name="CallActions[0]">6Gl9etpb4UeJDbJjUZmKSAAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[38]" type="UMLOperation" guid="ZH5YEUkl7ES+Iq5JfgCD/QAA">
+<XPD:OBJ name="Operations[37]" type="UMLOperation" guid="ZH5YEUkl7ES+Iq5JfgCD/QAA">
 <XPD:ATTR name="Name" type="string">saveSettingToSetting</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">5</XPD:ATTR>
@@ -4155,7 +4145,7 @@
 <XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
 <XPD:REF name="CallActions[0]">aUECpjgoTkCEsV094E2fFgAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[39]" type="UMLOperation" guid="dYoMfno830yCRyBp2vbCIgAA">
+<XPD:OBJ name="Operations[38]" type="UMLOperation" guid="dYoMfno830yCRyBp2vbCIgAA">
 <XPD:ATTR name="Name" type="string">updateStatus</XPD:ATTR>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
@@ -4171,10 +4161,12 @@
 <XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
 <XPD:REF name="CallActions[0]">nc6TATZdFkqYoKHPXDhd0gAA</XPD:REF>
 </XPD:OBJ>
-<XPD:ATTR name="#TypedFeatures" type="integer">3</XPD:ATTR>
+<XPD:ATTR name="#TypedFeatures" type="integer">5</XPD:ATTR>
 <XPD:REF name="TypedFeatures[0]">J52w+fOB/kW3W2XHXfW1LQAA</XPD:REF>
 <XPD:REF name="TypedFeatures[1]">TEwKs77QC0+2L/yhXNhFKAAA</XPD:REF>
 <XPD:REF name="TypedFeatures[2]">XSVbfE+7D0iyOFMKOP50YwAA</XPD:REF>
+<XPD:REF name="TypedFeatures[3]">QQSOCA17TEiq+wLYs3qL3gAA</XPD:REF>
+<XPD:REF name="TypedFeatures[4]">Z9dhqHz6o0i1wQhS0j24YAAA</XPD:REF>
 <XPD:ATTR name="#Associations" type="integer">5</XPD:ATTR>
 <XPD:REF name="Associations[0]">ksoi8fPCyUGNpE3Vn7QyXwAA</XPD:REF>
 <XPD:REF name="Associations[1]">ZGF2l6Hp6ka1UL6ViHIgXQAA</XPD:REF>
@@ -4184,7 +4176,8 @@
 <XPD:ATTR name="#Attributes" type="integer">5</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="qy9gkGPUEUqbwXXcN8MiTwAA">
 <XPD:ATTR name="Name" type="string">openHelper</XPD:ATTR>
-<XPD:ATTR name="TypeExpression" type="string">DatabaseOpenHelper</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">ScheduleDatabaseOpenHelper</XPD:ATTR>
+<XPD:REF name="Type_">jCtHlO/MxEmpeFcwixUOBgAA</XPD:REF>
 <XPD:REF name="Owner">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="iWjzmFp4jUmIymbq7zld5gAA">
@@ -4862,9 +4855,10 @@
 <XPD:ATTR name="Name" type="string">onUpgrade</XPD:ATTR>
 <XPD:REF name="Owner">jCtHlO/MxEmpeFcwixUOBgAA</XPD:REF>
 </XPD:OBJ>
-<XPD:ATTR name="#TypedFeatures" type="integer">2</XPD:ATTR>
+<XPD:ATTR name="#TypedFeatures" type="integer">3</XPD:ATTR>
 <XPD:REF name="TypedFeatures[0]">P1p2UPTmlku+NrOys+qHbAAA</XPD:REF>
 <XPD:REF name="TypedFeatures[1]">OBVZBlXaK0GZXpn8RTlHFQAA</XPD:REF>
+<XPD:REF name="TypedFeatures[2]">qy9gkGPUEUqbwXXcN8MiTwAA</XPD:REF>
 <XPD:ATTR name="#Associations" type="integer">1</XPD:ATTR>
 <XPD:REF name="Associations[0]">CUwMk6xPCkmcSDJCsMKvqQAA</XPD:REF>
 </XPD:OBJ>
@@ -5502,20 +5496,20 @@
 <XPD:ATTR name="Name" type="string">set</XPD:ATTR>
 <XPD:REF name="Owner">hwDFG+wEB0Oa2vMpWpFvmQAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">4</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="NIo582E1cECGkCAOF54Q4gAA">
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="8RH7/KMVGUG7ynn/zCI12AAA">
 <XPD:ATTR name="DirectionKind" type="UMLParameterDirectionKind">pdkReturn</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">void</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">yxM4N+vNMk2+HVvIK8XHIAAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="8wK4UeSd10iv5P82ltZbqQAA">
-<XPD:ATTR name="Name" type="string">int type</XPD:ATTR>
+<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="eLlEV6clek+p5B/3zBMJwAAA">
+<XPD:ATTR name="Name" type="string">int alarmServiceType</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">yxM4N+vNMk2+HVvIK8XHIAAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[2]" type="UMLParameter" guid="S6tyVhsQrUyfh3TAwYkZjgAA">
-<XPD:ATTR name="Name" type="string">long triggerAtMillis</XPD:ATTR>
+<XPD:OBJ name="Parameters[2]" type="UMLParameter" guid="KMDSqeqoA0yG1mvWqkPqxgAA">
+<XPD:ATTR name="Name" type="string">long timesent</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">yxM4N+vNMk2+HVvIK8XHIAAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[3]" type="UMLParameter" guid="5ffRHIWP50SJrMqFaCsBhQAA">
+<XPD:OBJ name="Parameters[3]" type="UMLParameter" guid="FgqsSCm2DUGkB89M3HFtlwAA">
 <XPD:ATTR name="Name" type="string">PendingIntent operation</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">yxM4N+vNMk2+HVvIK8XHIAAA</XPD:REF>
 </XPD:OBJ>
@@ -5528,16 +5522,20 @@
 <XPD:REF name="CallActions[5]">ow5Yz5e1ykaR9ZzhIeswogAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[1]" type="UMLOperation" guid="WTZgazt1bU6SCBWjn435JQAA">
-<XPD:ATTR name="Name" type="string">pauseSchedule</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">cancel</XPD:ATTR>
 <XPD:REF name="Owner">hwDFG+wEB0Oa2vMpWpFvmQAA</XPD:REF>
-<XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="E2RSjCk4aEutFLqTep/sZQAA">
+<XPD:ATTR name="#Parameters" type="integer">3</XPD:ATTR>
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="ejAGGRJqeUWba55PH7sTUgAA">
 <XPD:ATTR name="DirectionKind" type="UMLParameterDirectionKind">pdkReturn</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">void</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">WTZgazt1bU6SCBWjn435JQAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="PjmFElx0BUCtjX2n5wivpQAA">
-<XPD:ATTR name="Name" type="string">string messageId</XPD:ATTR>
+<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="GL5DJJB4E0+ivTidw5i3KAAA">
+<XPD:ATTR name="Name" type="string">long timesent</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">WTZgazt1bU6SCBWjn435JQAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Parameters[2]" type="UMLParameter" guid="mqv82ZB5UUesfqLkJ0z2CwAA">
+<XPD:ATTR name="Name" type="string">int pendingIntentRequestCode</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">WTZgazt1bU6SCBWjn435JQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
@@ -5644,9 +5642,10 @@
 </XPD:OBJ>
 <XPD:ATTR name="#TypedFeatures" type="integer">1</XPD:ATTR>
 <XPD:REF name="TypedFeatures[0]">AxTTXF7nF0+y1dTHz7ymRQAA</XPD:REF>
-<XPD:ATTR name="#TypedParameters" type="integer">2</XPD:ATTR>
+<XPD:ATTR name="#TypedParameters" type="integer">3</XPD:ATTR>
 <XPD:REF name="TypedParameters[0]">JFu+iUULx06f/jZiVEQI1gAA</XPD:REF>
 <XPD:REF name="TypedParameters[1]">qp3kRAKrqUCXB890H56wNgAA</XPD:REF>
+<XPD:REF name="TypedParameters[2]">V5NOH7Tnvk+hjz+ezpUw4gAA</XPD:REF>
 <XPD:ATTR name="#Instances" type="integer">7</XPD:ATTR>
 <XPD:REF name="Instances[0]">aQynfwlE8EKfWq8CPk//PAAA</XPD:REF>
 <XPD:REF name="Instances[1]">CoKlBABYw0Wm525f+HqbWQAA</XPD:REF>
@@ -5669,23 +5668,23 @@
 <XPD:ATTR name="Name" type="string">repetition</XPD:ATTR>
 <XPD:REF name="Owner">HvVaFBd9k0+2ViLn4rwTXAAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">5</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="tjEDzy0J0UW/Tol3Pa+60AAA">
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="TBaD0v2HtEKLmyksBSQLKAAA">
 <XPD:ATTR name="Name" type="string">PendingIntent pending</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">vuiB4/aEwk6+A4/BNvq6TAAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="Hj3i2LsCn0a2Qc9B9pU7XgAA">
+<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="AlFLnTsGOU6BRip45pfnpAAA">
 <XPD:ATTR name="Name" type="string">AlarmManager alarm</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">vuiB4/aEwk6+A4/BNvq6TAAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[2]" type="UMLParameter" guid="46WNvsmOY0yZ36293l3LaAAA">
-<XPD:ATTR name="Name" type="string">TimeListDatabaseHelper databaseHelper</XPD:ATTR>
+<XPD:OBJ name="Parameters[2]" type="UMLParameter" guid="07uhtIDFVUuB2kspcaatWQAA">
+<XPD:ATTR name="Name" type="string">ScheduleDatabaseHelper databaseHelper</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">vuiB4/aEwk6+A4/BNvq6TAAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[3]" type="UMLParameter" guid="TN1xfgvalEeOqR/LjFUKZQAA">
+<XPD:OBJ name="Parameters[3]" type="UMLParameter" guid="p11Ln/xbFUmOnib1wf7o+AAA">
 <XPD:ATTR name="Name" type="string">String[] data</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">vuiB4/aEwk6+A4/BNvq6TAAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[4]" type="UMLParameter" guid="k1kriMuJFEu1GjnlNSFYmwAA">
+<XPD:OBJ name="Parameters[4]" type="UMLParameter" guid="gI/RXSyVsUGlajiH0xOGSQAA">
 <XPD:ATTR name="Name" type="string">long[] time</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">vuiB4/aEwk6+A4/BNvq6TAAA</XPD:REF>
 </XPD:OBJ>
@@ -5994,22 +5993,18 @@
 <XPD:OBJ name="Operations[1]" type="UMLOperation" guid="jnDbCnYSgUKzPurZ8WU+9QAA">
 <XPD:ATTR name="Name" type="string">updateTime</XPD:ATTR>
 <XPD:REF name="Owner">hBZwnvA5w0euCWHbur84OgAA</XPD:REF>
-<XPD:ATTR name="#Parameters" type="integer">4</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="PmR9SOlvp0uutfvyaoX6uQAA">
+<XPD:ATTR name="#Parameters" type="integer">3</XPD:ATTR>
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="+TBub/TPBkuTV5ISZ1pFswAA">
 <XPD:ATTR name="DirectionKind" type="UMLParameterDirectionKind">pdkReturn</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">void</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">jnDbCnYSgUKzPurZ8WU+9QAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="rGFTZuvVZEGB0cwVuOTA+QAA">
+<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="KLftdKVhhkWWpqttCgGZhgAA">
 <XPD:ATTR name="Name" type="string">String messageId</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">jnDbCnYSgUKzPurZ8WU+9QAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[2]" type="UMLParameter" guid="Al6DZmlmq06XjMGns4L7RAAA">
+<XPD:OBJ name="Parameters[2]" type="UMLParameter" guid="wLhRiVlKgUucU11fptGupwAA">
 <XPD:ATTR name="Name" type="string">long timesent</XPD:ATTR>
-<XPD:REF name="BehavioralFeature">jnDbCnYSgUKzPurZ8WU+9QAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="Parameters[3]" type="UMLParameter" guid="O7GC9WRV7EyknL0r5rV37wAA">
-<XPD:ATTR name="Name" type="string">long timemillis</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">jnDbCnYSgUKzPurZ8WU+9QAA</XPD:REF>
 </XPD:OBJ>
 <XPD:ATTR name="#CallActions" type="integer">1</XPD:ATTR>
@@ -6858,7 +6853,8 @@
 <XPD:ATTR name="#Attributes" type="integer">2</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="Z9dhqHz6o0i1wQhS0j24YAAA">
 <XPD:ATTR name="Name" type="string">helper</XPD:ATTR>
-<XPD:ATTR name="TypeExpression" type="string">TemplateDatabaseHelper</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">ScheduleDatabaseHelper</XPD:ATTR>
+<XPD:REF name="Type_">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:REF name="Owner">YUNTrg1MmkeoshGidcoNnAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="AxTTXF7nF0+y1dTHz7ymRQAA">
@@ -6906,7 +6902,8 @@
 <XPD:ATTR name="#Attributes" type="integer">5</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="QQSOCA17TEiq+wLYs3qL3gAA">
 <XPD:ATTR name="Name" type="string">databaseHelper</XPD:ATTR>
-<XPD:ATTR name="TypeExpression" type="string">TemplateDatabaseHelper</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">ScheduleDatabaseHelper</XPD:ATTR>
+<XPD:REF name="Type_">z3DB0xwA5kefNh/YZDoz9QAA</XPD:REF>
 <XPD:REF name="Owner">3DJCIHsJg0ugkS+SDEhVBAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="1BMhi8DNMkuQhHPqUsKT8AAA">
@@ -7711,7 +7708,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="4DIGDc4R2kuHZcm1vecmkAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="Q93o6XB5JEiiyEHCh+feHQAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string"> : TimeListDatabaseHelper</XPD:ATTR>
+<XPD:ATTR name="Text" type="string"> : ScheduleDatabaseHelper</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="RDpJMtcvj0S1NvepFWLPYwAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -7783,7 +7780,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="YxAKNVFRu0e/Fxyu28dwPgAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="6A5u7J3PJk+2BKKLTb7htgAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string"> : Frequency</XPD:ATTR>
+<XPD:ATTR name="Text" type="string"> : Message_Interval</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="0pmj3e0rBkitn9YUmOlVRgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -9910,7 +9907,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="NDgVgcFPlkeKMdLuYGQvqgAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="d/Z8KarUGUuCpoa2Hbw/YAAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string"> : TimeListDatabaseHelper</XPD:ATTR>
+<XPD:ATTR name="Text" type="string"> : ScheduleDatabaseHelper</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="zvGOpYFC2EKvzMpnKeVkYQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -11619,7 +11616,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="TV0M4wz9PUyOdIcz7gNwwAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="1KtWLbKOiUu07+JIJpy5UAAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string"> : TimeListDatabaseHelper</XPD:ATTR>
+<XPD:ATTR name="Text" type="string"> : ScheduleDatabaseHelper</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="3yPtVl5WuE+oRtdWV7DZmAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -13487,7 +13484,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="zUcFSYCR7EWgH80nhR9HTQAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="3X4bWM0ghUiEl0rUcqKV1QAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string"> : TimeListDatabaseHelper</XPD:ATTR>
+<XPD:ATTR name="Text" type="string"> : ScheduleDatabaseHelper</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="wP6IG9VtPE+KQ2Aax5BM3gAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -15011,7 +15008,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="clMPmRnbI0a9PHLi5G7/rAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="OZD1h2JOB0+xUJqg7u5peQAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string"> : TimeListDatabaseHelper</XPD:ATTR>
+<XPD:ATTR name="Text" type="string"> : ScheduleDatabaseHelper</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="JlR/UrGg40ir1PvUA0V4QwAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -15155,7 +15152,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="6qaNR05bZUih99SS/NxOzwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="5IBZqziQmUSPyefwuLizFAAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string"> : Frequency</XPD:ATTR>
+<XPD:ATTR name="Text" type="string"> : Message_Interval</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="FQ7bXwfRSUi3QiFGEct4hAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -20856,7 +20853,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="p0yBgI/JKkisGX6yhX7sXwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="PRSpyN6WCUymIRlWkGwYUwAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string"> : TimeListDatabaseHelper</XPD:ATTR>
+<XPD:ATTR name="Text" type="string"> : ScheduleDatabaseHelper</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="/8PSO2DmVEKPZ/eTcoLd7QAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -22656,7 +22653,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="dPmynlehQEmsRPgKFVp/VQAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="hoAB5d9IaU6z4jnMtKJM7wAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string"> : TimeListDatabaseHelper</XPD:ATTR>
+<XPD:ATTR name="Text" type="string"> : ScheduleDatabaseHelper</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="2SoYaCeapE6Nq9AmLTeDxAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -25229,7 +25226,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="0DFB3HaRqEKkiISCzDEiVAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="fa3hAlgU902vbQywCAXZwwAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string"> : TimeListDatabaseHelper</XPD:ATTR>
+<XPD:ATTR name="Text" type="string"> : ScheduleDatabaseHelper</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="StcLwGJqHEuT19w5f5XqvAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -25349,7 +25346,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="TYj3pz6v5EOZNQMZ5z7sMwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="dcKN9KOOlEqGpUbTKH5zqgAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string"> : Frequency</XPD:ATTR>
+<XPD:ATTR name="Text" type="string"> : Message_Interval</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="OE+7Rf851kiCrTXqyJhvZAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -27288,7 +27285,6 @@
 <XPD:REF name="Receiver">qqknedVTn0ygwu/9AhY+GQAA</XPD:REF>
 <XPD:OBJ name="Action" type="UMLCallAction" guid="rVBQT/2GAkGZ/m17FZUF2AAA">
 <XPD:REF name="Stimulus">8qum1rKFxkGGaY5Svd57JQAA</XPD:REF>
-<XPD:REF name="Operation">JBi9H9CO10y/wR6S0JMaXwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:REF name="InteractionInstanceSet">HLhaqQc2kEaY7sXNuhqbbgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
@@ -27938,13 +27934,13 @@
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">528</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">72</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">135</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">350</XPD:ATTR>
 <XPD:REF name="Model">svnpZf2YLUOSUwl41g+DRQAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="TDDFx8BZz0mXBWpVP58dsgAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="IrPGGIPmykOYK+LQEpHN0wAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string"> : TimeListDatabaseHelper</XPD:ATTR>
+<XPD:ATTR name="Text" type="string"> : ScheduleDatabaseHelper</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="NIhjsB46l0qxRMlveaSnZwAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -28257,9 +28253,9 @@
 <XPD:REF name="Head">diX+I4iLw0CFzH2HB2t+wwAA</XPD:REF>
 <XPD:REF name="Tail">9Ipz3EowSUqrSHmUfkajlQAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="+HIXmGacwUWrmkK5Ri2rZwAA">
-<XPD:ATTR name="Alpha" type="real">1.07144890447809</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">12.5299640861417</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">9 : pauseSchedule(string messageId)</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0.253075610370237</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">59.9082632030006</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">9 : cancel(long timesent, int pendingIntentRequestCode)</XPD:ATTR>
 <XPD:REF name="Model">cwPV3eO320CQGKAMHO9VigAA</XPD:REF>
 <XPD:REF name="HostEdge">NkJ0zYr5lUafPkWyOwm2zQAA</XPD:REF>
 </XPD:OBJ>
@@ -28288,7 +28284,7 @@
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">478,382;588,382</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">478,382;591,382</XPD:ATTR>
 <XPD:REF name="Model">bDSs0rBGOUyCgNA0Ctuc6AAA</XPD:REF>
 <XPD:REF name="Head">89Yu5rNQV0ifbA4lprkM0gAA</XPD:REF>
 <XPD:REF name="Tail">diX+I4iLw0CFzH2HB2t+wwAA</XPD:REF>
@@ -28314,7 +28310,7 @@
 <XPD:REF name="HostEdge">t9QAAmtIuUuA5d0HuR6H2QAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Activation" type="UMLActivationView" guid="QBl3w67FKUSc1EObIa1vjwAA">
-<XPD:ATTR name="Left" type="integer">588</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">591</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">382</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">14</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">29</XPD:ATTR>
@@ -28699,7 +28695,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="ao+5SxBdAEeAOSrW8uGEBAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="PYt4280tHECszRj4Ftlm7gAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string"> : TimeListDatabaseHelper</XPD:ATTR>
+<XPD:ATTR name="Text" type="string"> : ScheduleDatabaseHelper</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="HQlZtgYp5UmKiSkN3mCzlAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -29752,7 +29748,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="TWXmH72rb0qQH2TAaW5HlAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="DF6r4MHVoEKR+FqJx9wNPAAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string"> : TimeListDatabaseHelper</XPD:ATTR>
+<XPD:ATTR name="Text" type="string"> : ScheduleDatabaseHelper</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="2DWtx+PImkyc4jDl/1TAfgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -31537,7 +31533,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="N0UDA1SRG0eHnZxJGvdj5QAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="tRVGyNfij0e4YHoVqGJmjgAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string"> : TimeListDatabaseHelper</XPD:ATTR>
+<XPD:ATTR name="Text" type="string"> : ScheduleDatabaseHelper</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="MdHnP/UNbkyIB5XgFC4ldwAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -32026,7 +32022,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="1ZDb3RjCYEmdSD6BkMDa7wAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="2aB1jP1RYEqsun8YskVYHwAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string"> : TimeListDatabaseHelper</XPD:ATTR>
+<XPD:ATTR name="Text" type="string"> : ScheduleDatabaseHelper</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="hWdTfj+Jz0GntVgN5hhOJwAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
