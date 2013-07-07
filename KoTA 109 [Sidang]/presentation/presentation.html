@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->  <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+	<title>Kelompok Tugas Akhir 109</title>
+	
+	<meta name="description" content="A jQuery library for modern HTML presentations">
+	<meta name="author" content="Caleb Troughton">
+	<meta name="viewport" content="width=1024, user-scalable=no">
+	
+	<!-- Core and extension CSS files -->
+	<link rel="stylesheet" href="../core/deck.core.css">
+	<link rel="stylesheet" href="../extensions/goto/deck.goto.css">
+	<link rel="stylesheet" href="../extensions/menu/deck.menu.css">
+	<link rel="stylesheet" href="../extensions/navigation/deck.navigation.css">
+	<link rel="stylesheet" href="../extensions/status/deck.status.css">
+	<link rel="stylesheet" href="../extensions/hash/deck.hash.css">
+	<link rel="stylesheet" href="../extensions/scale/deck.scale.css">
+	
+	<!-- Style theme. More available in /themes/style/ or create your own. -->
+	<link rel="stylesheet" href="../themes/style/web-2.0.css">
+	
+	<!-- Transition theme. More available in /themes/transition/ or create your own. -->
+	<link rel="stylesheet" href="../themes/transition/horizontal-slide.css">
+	
+	<script src="../modernizr.custom.js"></script>
+</head>
+
+<body class="deck-container">
+
+<!-- Begin slides -->
+<section class="slide" id="Home">
+	<pre> 	
+        <h1>SMS SCHEDULER</h1>
+    </pre>
+    <br><br><br><br><br><br><br><br>
+    <h3 align="center" style="color:#333;">Kelompok Tugas Akhir 109</h3>
+    <p align="center" style="font-size:23px;">
+    	Keukeu Anggarani Putri [101511015]<br>
+    	Laras Ervintyana D.K.S [101511016]<br>
+        Rizal Zulfikar Rinanda [101511028]
+    </p>
+</section>
+
+<section class="slide" id="Masukan&Perbaikan">
+	<h2>Masukan dan Perbaikan dari Seminar 3</h2>
+	<table align="center" style="font-family: 'Georgia'; font-size:23px;">
+      	<tr align="center">
+            <td width="50">No.</td>
+			<td width="150">MASUKAN</td>
+			<td width="20"></td>
+			<td width="150">PERBAIKAN</td>
+        </tr>
+		<tr align="center">
+            <td height="20" width="50"></td>
+			<td height="20" width="150"></td>
+			<td height="20" width="20"></td>
+			<td height="20" width="150"></td>
+        </tr>
+		<tr>
+			<td width="50" align="center">1.</td>
+			<td width="550">Pertimbangan pemilihan model pengembangan</td>
+			<td width="20"></td>
+            <td width="800">Pemilihan model incremental dimaksudkan agar dalam waktu dekat dapat menghasilkan produk
+  aplikasi</td>
+        </tr>
+		<tr>
+			<td width="50" align="center">2.</td>
+			<td width="550">Kebutuhan data di SRS dan perancangan model data di laporan</td>
+			<td width="20"></td>
+            <td width="750">Pada dokumen SRS, hanya menuliskan data-data yang dibutuhkannya saja, kemudian pada perancangan digambarkan dengan E-R diagram</td>
+        </tr>
+		<tr>
+            <td width="50" align="center">3.</td>
+			<td width="550">Pemilihan nama atribut pada E-R diagram</td>
+			<td width="20"></td>
+            <td width="750">Nama atribut disesuaikan dengan kebutuhan data</td>
+        </tr>
+		<tr>
+            <td width="50" align="center">4.</td>
+			<td width="550">Refactoring class diagram</td>
+			<td width="20"></td>
+            <td width="750">Merubah beberapa nama class, menambahkan stereotype, dan memperbaiki relasi antar classnya</td>
+        </tr>
+		<tr>
+            <td width="50" align="center">5.</td>
+			<td width="550">Sequence diagram dan logika proses perlu diperbaiki agar dapat menjelaskan proses untuk semua platform</td>
+			<td width="20"></td>
+            <td width="750">Memperbaiki sequence diagram dan logika proses untuk menjelaskan proses pada semua platform</td>
+        </tr>
+		<tr>
+            <td width="50" align="center">6.</td>
+			<td width="550">Batasan implementasi</td>
+			<td width="20"></td>
+            <td width="750">Implementasi dilakukan pada platform android dengan fitur membuat schedule baru, mengirimkan pesan sesuai schedule yang telah dibuat, menampilkan notifikasi dan template</td>
+        </tr>
+		<tr>
+            <td width="50" align="center">7.</td>
+			<td width="550">Perilaku Alarm Manager pada device</td>
+			<td width="20"></td>
+            <td width="750">Perilaku pada alarm manager akan dijelaskan pada slide selanjutnya</td>
+        </tr>
+	</table>
+</section>
+
+<!--E-R DIAGRAM YANG DIPERBAIKI-->
+<section class="slide" id="E-R">
+	<h2>E-R Diagram</h2>
+	<a href="..\img\Database_TA_012.png"><img src="../img/Database_TA_012.png"></a>
+</section>
+
+<!--CLASS DIAGRAM YANG DIUBAH-->
+<section class="slide" id="ClassDiagram">
+	<h2>Class Diagram</h2>
+	<a href="..\img\ClassDiagram003.jpg"><img src="../img/ClassDiagram003.jpg"></a>
+</section>
+
+<!--SEQUENCE DIAGRAM YANG DIUBAH-->
+<section class="slide" id="SequenceDiagram01">
+	<h2>Sequence Diagram New Schedule</h2>
+	<a href="..\img\SD-NewSchedule005.jpg"><img src="../img/SD-NewSchedule005.jpg"></a>
+</section>
+
+<section class="slide" id="SequenceDiagram02">
+	<h2>Sequence Diagram Interrupt</h2>
+	<a href="..\img\SD-Interrupt005.jpg"><img src="../img/SD-Interrupt005.jpg"></a>
+</section>
+
+<section class="slide" id="SequenceDiagram03">
+	<h2>Sequence Diagram Queue and Send Message</h2>
+	<a href="..\img\SD-Queue006.jpg"><img src="../img/SD-Queue006.jpg"></a>
+</section>
+
+<section class="slide" id="SequenceDiagram04">
+	<h2>Sequence Diagram Notification</h2>
+	<a href="..\img\SD-Notification004.jpg"><img src="../img/SD-Notification004.jpg"></a>
+</section>
+
+<section class="slide" id="SequenceDiagram05">
+	<h2>Sequence Diagram Show Category</h2>
+	<a href="..\img\SD-ShowCategory002.jpg"><img src="../img/SD-ShowCategory002.jpg"></a>
+</section>
+
+<section class="slide" id="SequenceDiagram06">
+	<h2>Sequence Diagram Edit All</h2>
+	<a href="..\img\iSD-EditAll007.jpg"><img src="../img/SD-EditAll007.jpg"></a>
+</section>
+
+<section class="slide" id="SequenceDiagram07">
+	<h2>Sequence Diagram Edit Recipient</h2>
+	<a href="..\img\SD-EditRecipient006.jpg"><img src="../img/SD-EditRecipient006.jpg"></a>
+</section>
+
+<section class="slide" id="SequenceDiagram08">
+	<h2>Sequence Diagram Edit Date and Time</h2>
+	<a href="..\img\SD-EditTime005.jpg"><img src="../img/SD-EditTime005.jpg"></a>
+</section>
+
+<section class="slide" id="SequenceDiagram09">
+	<h2>Sequence Diagram Edit Content</h2>
+	<a href="..\img\SD-EditContent005.jpg"><img src="../img/SD-EditContent005.jpg"></a>
+</section>
+
+<section class="slide" id="SequenceDiagram10">
+	<h2>Sequence Diagram Pause Schedule</h2>
+	<a href="..\img\SD-Pause003.jpg"><img src="../img/SD-Pause003.jpg"></a>
+</section>
+
+<section class="slide" id="SequenceDiagram11">
+	<h2>Sequence Diagram Resume Schedule</h2>
+	<a href="..\img\SD-Resume004.jpg"><img src="../img/SD-Resume004.jpg"></a>
+</section>
+
+<section class="slide" id="SequenceDiagram12">
+	<h2>Sequence Diagram Show Alert</h2>
+	<a href="..\img\SD-Alert004.jpg"><img src="../img/SD-Alert004.jpg"></a>
+</section>
+
+<section class="slide" id="SequenceDiagram13">
+	<h2>Sequence Diagram New template</h2>
+	<a href="..\img\SD-NewTemplate005.jpg"><img src="../img/SD-NewTemplate005.jpg"></a>
+</section>
+
+<section class="slide" id="SequenceDiagram14">
+	<h2>Sequence Diagram Delete Template</h2>
+	<a href="..\img\SD-Remove Template004.jpg"><img src="../img/SD-Remove Template004.jpg"></a>
+</section>
+
+<!--PENAMBAHAN SEQUENCE BARU-->
+<section class="slide" id="SequenceDiagram15">
+	<h2>Sequence Diagram Delete Schedule</h2>
+	<a href="..\img\SD-DeleteSchedule001.jpg"><img src="../img/SD-DeleteSchedule001.jpg"></a>
+</section>
+
+<section class="slide" id="SequenceDiagram16">
+	<h2>Sequence Diagram Resend Schedule</h2>
+	<a href="..\img\SD-Resend001.jpg"><img src="../img/SD-Resend001.jpg"></a>
+</section>
+
+<!--PENJELASAN PERILAKU ALARM MANAGER-->
+<section class="slide" id="PerilakuAlarmManager">
+	<h2>Alarm Manager</h2>
+	<p>
+	</p>
+</section>
+
+<!--SYARAT APLIKASI AGAR BERJALAN DENGAN BAIK-->
+<section class="slide" id="SyaratPenggunaanAplikasi">
+	<h2>Syarat Penggunaan Aplikasi</h2>
+	<table style="font-family: 'Georgia'; font-size:25px;">
+		<tr height="50">
+			<td width="50">1. </td>
+			<td>Device yang digunakan adalah mobile device yang menggunakan SIM Card</td>
+		</tr>
+		<tr height="50">
+			<td width="50">2. </td>
+			<td>Device tidak dalam keadaan mati atau hang</td>
+		</tr>
+		<tr height="50">
+			<td width="50">3. </td>
+			<td>Device tidak dalam keadaan rusak, baik kerusakan sistem maupun hardware</td>
+		</tr>
+		<tr height="50">
+			<td width="50">4. </td>
+			<td>Waktu sistem pada device dalam keadaan benar (sesuai dengan waktu yang sedang berlangsung)</td>
+		</tr>
+		<tr height="50">
+			<td width="50">5. </td>
+			<td>Device memiliki pulsa yang cukup untuk mengirimkan pesan</td>
+		</tr>
+		<tr height="50">
+			<td width="50">6. </td>
+			<td>Terdapat sinyal pada device sesuai provider yang digunakan</td>
+		</tr>
+		<tr height="50">
+			<td width="50">7. </td>
+			<td>Device tidak dalam keadaan mati atau hang</td>
+		</tr>
+		<tr height="50">
+			<td width="50">8. </td>
+			<td>Tidak terdapat gangguan pada provider atau SMS Center</td>
+		</tr>
+	</table>
+</section>
+
+<!--PROGRESS TUGAS AKHIR-->
+<section class="slide" id="Progress1">
+	<h2>Progress Pekerjaan Tugas Akhir (1/4)</h2>
+	<pre align="center" style="font-family: 'Georgia'; font-size:23px;">
+	<table align="center">
+      	<tr align="center" height="50">
+			<td align="center" width="200">Requirement</td>
+			<td align="center" width="200">Status Design</td>
+			<td align="center" width="250">Status Implementasi</td>
+			<td width="50"></td>
+			<td align="center" width="200">Requirement</td>
+			<td align="center" width="200">Status Design</td>
+			<td align="center" width="250">Status Implementasi</td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ F-01.1]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ F-01.2]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ CRT-01]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ DEL-01]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ CRT-02]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ DEL-02]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ CRT-03]</td>
+			<td width="200"></td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ DEL-03]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ CRT-04]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ F-01.3]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ CRT-05]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ UPD-01]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ CRT-06]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ UPD-02]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ CRT-07]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ UPD-03]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ CRT-08]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ UPD-03]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ CRT-09]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ UPD-04]</td>
+			<td width="200"></td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ CRT-10]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ UPD-05]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+        </tr>
+	</table>
+	</pre>
+</section>
+
+<section class="slide" id="Progress2">
+	<h2>Progress Pekerjaan Tugas Akhir (2/4)</h2>
+	<pre align="center" style="font-family: 'Segoe UI'; font-size:23px;">
+	<table align="center">
+      	<tr align="center" height="50">
+			<td align="center" width="150">Requirement</td>
+			<td align="center" width="200">Status Design</td>
+			<td align="center" width="250">Status Implementasi</td>
+			<td width="50"></td>
+			<td align="center" width="150">Requirement</td>
+			<td align="center" width="200">Status Design</td>
+			<td align="center" width="250">Status Implementasi</td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ UPD-06]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ F-01.5]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ UPD-07]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ FOL-01]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ UPD-08]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ FOL-02]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ UPD-09]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ FOL-03]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ UPD-10]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ FOL-04]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ UPD-11]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ FOL-05]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ F-01.4]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ FOL-06]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ PSD-01]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ F-02]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ PSD-02]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ SND-01]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ PSD-03]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ SND-02]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ PSD-04]</td>
+			<td width="200"></td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ SND-03]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+        </tr>
+	</table>
+	</pre>
+</section>
+
+<section class="slide" id="Progress3">
+	<h2>Progress Pekerjaan Tugas Akhir (3/4)</h2>
+	<pre align="center" style="font-family: 'Segoe UI'; font-size:23px;">
+	<table align="center">
+      	<tr align="center" height="50">
+			<td align="center" width="150">Requirement</td>
+			<td align="center" width="200">Status Design</td>
+			<td align="center" width="250">Status Implementasi</td>
+			<td width="50"></td>
+			<td align="center" width="150">Requirement</td>
+			<td align="center" width="200">Status Design</td>
+			<td align="center" width="250">Status Implementasi</td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ SND-04]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ NTF-03]</td>
+			<td width="200"></td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ F-03]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ F-05.1]</td>
+			<td width="200"></td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ ALR-01]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ SA-01]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ ALR-02]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ SA-02]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ ALR-03]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ SA-03]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ ALR-04]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ SA-04]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ ALR-05]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ SA-05]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ ALR-06]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ F-05.2]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ F-04]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ SN-01]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ NTF-01]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ SN-02]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="150" align="center">[REQ NTF-02]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="150" align="center">[REQ SN-03]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+        </tr>
+	</table>
+	</pre>
+</section>
+
+<section class="slide" id="Progress4">
+	<h2>Progress Pekerjaan Tugas Akhir (4/4)</h2>
+	<pre align="center" style="font-family: 'Segoe UI'; font-size:23px;">
+	<table align="center">
+      	<tr align="center" height="50">
+			<td align="center" width="200">Requirement</td>
+			<td align="center" width="200">Status Design</td>
+			<td align="center" width="250">Status Implementasi</td>
+			<td width="50"></td>
+			<td align="center" width="200">Requirement</td>
+			<td align="center" width="200">Status Design</td>
+			<td align="center" width="250">Status Implementasi</td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ F-06]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ EXCP-02]</td>
+			<td width="200"></td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ TMP-01]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ EXCP-03]</td>
+			<td width="200"></td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ TMP-02]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ EXCP-04]</td>
+			<td width="200"></td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ TMP-03]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ EXCP-05]</td>
+			<td width="200"></td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ TMP-04]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ EXCP-06]</td>
+			<td width="200"></td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ TMP-05]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ EXCP-07]</td>
+			<td width="200"></td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ TMP-06]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ EXCP-08]</td>
+			<td width="200"></td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ TMP-07]</td>
+			<td width="200">√</td>
+            <td width="200"></td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ EXCP-09]</td>
+			<td width="200"></td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ TMP-08]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+			<td width="50"></td>
+			<td width="200" align="center">[REQ EXCP-10]</td>
+			<td width="200"></td>
+            <td width="200"></td>
+        </tr>
+		<tr>
+			<td width="200" align="center">[REQ EXCP-01]</td>
+			<td width="200">√</td>
+            <td width="200">√</td>
+        </tr>
+	</table>
+	</pre>
+</section>
+
+<section class="slide">
+	<h1>Terima Kasih</h1>
+</section>
+
+<!-- deck.navigation snippet -->
+<a href="#" class="deck-prev-link" title="Previous">&#8592;</a>
+<a href="#" class="deck-next-link" title="Next">&#8594;</a>
+
+<!-- deck.status snippet -->
+<p class="deck-status">
+	<span class="deck-status-current"></span>
+	/
+	<span class="deck-status-total"></span>
+</p>
+
+<!-- deck.goto snippet -->
+<form action="." method="get" class="goto-form">
+	<label for="goto-slide">Go to slide:</label>
+	<input type="text" name="slidenum" id="goto-slide" list="goto-datalist">
+	<datalist id="goto-datalist"></datalist>
+	<input type="submit" value="Go">
+</form>
+
+<!-- deck.hash snippet -->
+<a href="." title="Permalink to this slide" class="deck-permalink">#</a>
+
+
+<!-- Grab CDN jQuery, with a protocol relative URL; fall back to local if offline -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="../jquery-1.7.2.min.js"><\/script>')</script>
+
+<!-- Deck Core and extensions -->
+<script src="../core/deck.core.js"></script>
+<script src="../extensions/hash/deck.hash.js"></script>
+<script src="../extensions/menu/deck.menu.js"></script>
+<script src="../extensions/goto/deck.goto.js"></script>
+<script src="../extensions/status/deck.status.js"></script>
+<script src="../extensions/navigation/deck.navigation.js"></script>
+<script src="../extensions/scale/deck.scale.js"></script>
+
+<!-- Initialize the deck -->
+<script>
+$(function() {
+	$.deck('.slide');
+});
+</script>
+
+</body>
+</html>

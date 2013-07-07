@@ -1,0 +1,20 @@
+TABEL MASUKAN SEMINAR
+
+MASUKAN													PERBAIKAN
+- Pertimbangan pemilihan model pengembangan				- pemilihan model incremental dimaksudkan agar dalam waktu dekat dapat menghasilkan produk
+  aplikasi
+- Kebutuhan data di SRS dan perancangan 				- pada dokumen SRS, hanya menuliskan data-data yang dibutuhkannya saja, kemudian pada 
+  model data di laporan									  perancangan digambarkan dengan E-R diagram
+- Pemilihan nama atribut pada E-R diagram				- nama atribut disesuaikan dengan kebutuhan data
+- Refactoring class diagram								- merubah beberapa nama class, menambahkan stereotype, dan memperbaiki relasi antar classnya.
+- Sequence diagram dan logika proses perlu				- memperbaiki sequence diagram dan logika proses untuk menjelaskan proses pada semua platform
+  diperbaiki agar dapat menjelaskan proses				  
+  untuk semua platform
+- Batasan implementasi									- implementasi dilakukan pada platform android dengan fitur membuat schedule baru, mengirimkan pesan sesuai
+														  schedule yang telah dibuat, menampilkan notifikasi dan template.
+- Perilaku Alarm Manager pada device					- perilaku pada alarm manager akan dijelaskan pada slide selanjutnya.
+
+
+
+REQUIREMENT				              STATUS
+					Berhasil didesign		Berhasil diimplementasi
